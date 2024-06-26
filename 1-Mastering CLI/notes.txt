@@ -1,0 +1,27 @@
+to Make directory or folder type
+mkdir to have a new folder or directory name
+
+to Clear Terminal type
+Clear
+
+to remove a directory type
+rmdir (file or folder name)
+
+to print or show current directory type
+pwd
+
+to see all files in folder type
+ls or dir
+
+to change directories type
+cd (filename)
+
+to go back one directory type
+cd ..
+
+create file type
+touch file.txt
+
+remove file type
+rm (filename)
+
